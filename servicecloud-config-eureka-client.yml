@@ -3,6 +3,8 @@
       active:
       - dev
 
+---
+
 server:
    port: 7001
 spring:
